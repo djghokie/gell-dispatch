@@ -1,0 +1,4 @@
+{
+	"require": ["./test/bootstrap"],
+	"recursive": true
+}
